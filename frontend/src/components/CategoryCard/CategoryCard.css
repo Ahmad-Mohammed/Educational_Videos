@@ -1,0 +1,7 @@
+.page-content {
+    /* margin-top: 110px; */
+    background-color: var(--color-dark);
+    padding: 60px;
+    border-radius: 23px;
+    color: var(--color-light);
+  }

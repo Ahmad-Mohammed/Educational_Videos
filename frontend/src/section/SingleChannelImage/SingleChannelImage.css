@@ -1,0 +1,38 @@
+.file-button {
+    /* display: block; */
+    /* margin: 10px auto; */
+    width: 100%;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 10pt;
+   
+
+}
+
+.single-channel-image form input[type="file"]{
+    opacity: 0;
+    width: 0.1px;
+    height: 0.1px;
+    overflow: hidden;
+    z-index: -1;
+    position: absolute;
+
+}
+
+input[type="file"]:focus+label {
+    border-color: black;  
+}
+
+
+
+
+
+
+
+
+
+
+

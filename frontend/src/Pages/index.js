@@ -1,0 +1,13 @@
+export {default as Home} from './Home/Home';
+export {default as VideoPage} from './VideoPage/VideoPage';
+export {default as AllVideo} from './AllVideo/AllVideo';
+export {default as AllVideoCategory} from './AllVideoCategory/AllVideoCategory';
+export {default as AllVideoPlaylist} from './AllVideoPlaylist/AllVideoPlaylist';
+export {default as Register} from './Register/Register';
+export {default as RegisterTeacher} from './RegisterTeacher/RegisterTeacher';
+export {default as Login} from './Login/Login';
+export {default as Forgot} from './Forgot/Forgot';
+export {default as SingleChannel} from './SingleChannel/SingleChannel';
+export {default as UploadVideo} from './UploadVideo/UploadVideo';
+export {default as Done} from './Done/Done';
+export {default as Dashbord} from './Dashbord/Dashbord';
